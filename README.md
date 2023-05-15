@@ -1,2 +1,2 @@
 # Technologies of machine learning
-## Every folder contains 1 project and its data
+## Each folder contains the project and its data
